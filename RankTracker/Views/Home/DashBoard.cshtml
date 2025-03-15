@@ -1,0 +1,48 @@
+﻿@model dynamic
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Dashboard</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-header">Total Games Tracked</div>
+            <div class="card-body">
+                <h3 class="card-title">@Model.TotalGames</h3>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-header">Total Rank Entries</div>
+            <div class="card-body">
+                <h3 class="card-title">@Model.TotalRankEntries</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h3>Recent Rank Updates</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Rank</th>
+            <th>Date</th>
+            <th>Game</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var entry in Model.UserRankEntries)
+        {
+            <tr>
+                <td>@entry.Rank</td>
+                <td>@entry.Date.ToShortDateString()</td>
+                <td>@entry.GameId</td>
+                <td>@entry.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>
