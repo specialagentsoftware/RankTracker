@@ -16,8 +16,8 @@
             <th>Rank</th>
             <th>Date</th>
             <th>Description</th>
-            <th>User Id</th>
-            <th>Game Id</th>
+            <th>User Name</th>
+            <th>Game Name</th>
             <th>Actions</th>
         </tr>
     </thead>
@@ -28,8 +28,8 @@
                 <td>@item.Rank</td>
                 <td>@item.Date</td>
                 <td>@item.Description</td>
-                <td>@item.UserId</td>
-                <td>@item.GameId</td>
+                <td>@item.User</td>
+                <td>@item.Game.Name</td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                     <a asp-action="Details" asp-route-id="@item.Id">Details</a> |

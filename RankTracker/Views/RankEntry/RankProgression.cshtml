@@ -1,0 +1,80 @@
+﻿@{
+    ViewData["Title"] = "Rank Progression";
+}
+
+<h2>Rank Progression</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <label>Select Game:</label>
+        <select id="gameSelect" class="form-control">
+            <option value="">-- Select a Game --</option>
+            @foreach (var game in ViewData["Games"] as List<RankTracker.Models.Game>)
+            {
+                <option value="@game.Id">@game.Name</option>
+            }
+        </select>
+    </div>
+    <div class="col-md-4">
+        <label>Select User:</label>
+        <select id="userSelect" class="form-control">
+            <option value="">-- Select a User --</option>
+            @foreach (var user in ViewData["Users"] as List<Microsoft.AspNetCore.Identity.IdentityUser>)
+            {
+                <option value="@user.Id">@user.UserName</option>
+            }
+        </select>
+    </div>
+</div>
+
+<canvas id="rankChart" width="400" height="200"></canvas>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let ctx = document.getElementById('rankChart').getContext('2d');
+        let rankChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: [],
+                datasets: [{
+                    label: 'Rank Progression',
+                    borderColor: 'blue',
+                    backgroundColor: 'rgba(0, 0, 255, 0.1)',
+                    data: []
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    x: { title: { display: true, text: 'Date' } },
+                    y: { title: { display: true, text: 'ELO Rank' } }
+                }
+            }
+        });
+
+        function updateChart(userId, gameId) {
+            if (!userId || !gameId) return;
+
+            fetch(`/RankEntry/GetRankProgression?userId=${userId}&gameId=${gameId}`)
+                .then(response => response.json())
+                .then(data => {
+                    let dates = data.map(entry => new Date(entry.date).toLocaleDateString());
+                    let ranks = data.map(entry => entry.rank);
+
+                    rankChart.data.labels = dates;
+                    rankChart.data.datasets[0].data = ranks;
+                    rankChart.update();
+                })
+                .catch(error => console.error("Error loading rank data:", error));
+        }
+
+        document.getElementById('gameSelect').addEventListener('change', function () {
+            updateChart(document.getElementById('userSelect').value, this.value);
+        });
+
+        document.getElementById('userSelect').addEventListener('change', function () {
+            updateChart(this.value, document.getElementById('gameSelect').value);
+        });
+    });
+</script>
+

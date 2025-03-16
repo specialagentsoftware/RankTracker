@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\views\\rankentry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\controllers\\rankentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\controllers\\rankentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\models\\rankentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\models\\rankentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\views\\rankentry\\rankprogression.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\rankprogression.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\views\\rankentry\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Migrations\\20250316154116_ChangeRankToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RankTracker\\Migrations\\20250316154116_ChangeRankToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\models\\rankentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\models\\rankentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\controllers\\rankentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\controllers\\rankentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\views\\rankentry\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\views\\rankentry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,6 +57,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\views\\rankentry\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\lwrog\\source\\repos\\ranktracker\\ranktracker\\migrations\\20250316154116_changeranktoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\migrations\\20250316154116_changeranktoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RankEntryController.cs",
-              "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Controllers\\RankEntryController.cs",
-              "RelativeDocumentMoniker": "RankTracker\\Controllers\\RankEntryController.cs",
-              "ToolTip": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Controllers\\RankEntryController.cs",
-              "RelativeToolTip": "RankTracker\\Controllers\\RankEntryController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAADwv2gAAACCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:03:19.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RankTracker\\Views\\Home\\Index.cshtml",
@@ -91,12 +86,11 @@
               "RelativeToolTip": "RankTracker\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:09:55.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T05:09:55.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RankEntry.cs",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Models\\RankEntry.cs",
               "RelativeDocumentMoniker": "RankTracker\\Models\\RankEntry.cs",
@@ -109,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\Edit.cshtml",
               "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Edit.cshtml",
@@ -117,12 +111,63 @@
               "RelativeToolTip": "RankTracker\\Views\\RankEntry\\Edit.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T15:17:03.278Z",
+              "WhenOpened": "2025-03-16T15:17:03.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\Index.cshtml",
+              "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\Index.cshtml",
+              "RelativeToolTip": "RankTracker\\Views\\RankEntry\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T04:53:54.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "RankEntryController.cs",
+              "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Controllers\\RankEntryController.cs",
+              "RelativeDocumentMoniker": "RankTracker\\Controllers\\RankEntryController.cs",
+              "ToolTip": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Controllers\\RankEntryController.cs",
+              "RelativeToolTip": "RankTracker\\Controllers\\RankEntryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:03:19.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RankProgression.cshtml",
+              "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\RankProgression.cshtml",
+              "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\RankProgression.cshtml",
+              "ToolTip": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\RankProgression.cshtml",
+              "RelativeToolTip": "RankTracker\\Views\\RankEntry\\RankProgression.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T16:15:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RankTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RankTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T16:10:34.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "20250316154116_ChangeRankToInt.cs",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Migrations\\20250316154116_ChangeRankToInt.cs",
               "RelativeDocumentMoniker": "RankTracker\\Migrations\\20250316154116_ChangeRankToInt.cs",
@@ -130,12 +175,11 @@
               "RelativeToolTip": "RankTracker\\Migrations\\20250316154116_ChangeRankToInt.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:41:17.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T15:41:17.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\Create.cshtml",
               "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Create.cshtml",
@@ -148,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\Game\\Details.cshtml",
               "RelativeDocumentMoniker": "RankTracker\\Views\\Game\\Details.cshtml",
@@ -160,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "RankTracker\\Controllers\\HomeController.cs",
@@ -172,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\Details.cshtml",
               "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Details.cshtml",
@@ -184,19 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\Index.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\Index.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\RankEntry\\Index.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwB8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T04:53:54.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "RankTracker\\Controllers\\GameController.cs",
@@ -208,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\Game\\Index.cshtml",
               "RelativeDocumentMoniker": "RankTracker\\Views\\Game\\Index.cshtml",
@@ -220,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\Views\\RankEntry\\Delete.cshtml",
               "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Delete.cshtml",

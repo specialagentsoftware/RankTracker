@@ -144,6 +144,25 @@ namespace GameRankTracker.Controllers
             }
             return RedirectToAction(nameof(Index));
         }
+
+        public async Task<IActionResult> RankProgression()
+        {
+            ViewData["Games"] = await _context.Games.ToListAsync();
+            ViewData["Users"] = await _context.Users.ToListAsync();
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<JsonResult> GetRankProgression(string userId, int gameId)
+        {
+            var rankEntries = await _context.RankEntries
+                .Where(r => r.UserId == userId && r.GameId == gameId)
+                .OrderBy(r => r.Date)
+                .Select(r => new {r.Date, r.Rank})
+                .ToListAsync();
+
+            return Json(rankEntries);
+        }
     }
 }
 
