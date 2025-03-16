@@ -10,7 +10,8 @@ namespace RankTracker.Models
         public int Id { get; set; }
 
         [Required]
-        public string Rank { get; set; } = string.Empty;
+        [Range(1, 5000, ErrorMessage = "Rank must be between 1 and 5000.")]
+        public int Rank { get; set; }
         [Required]
         public DateTime Date { get; set; } = DateTime.UtcNow;
         public string? Description {  get; set; }

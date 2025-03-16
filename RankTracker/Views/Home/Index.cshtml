@@ -1,8 +1,12 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<h1>Welcome to RankTracker</h1>
+<p>Track your game ranks and monitor your progress!</p>
+
+<div class="mt-4">
+    <a asp-controller="Game" asp-action="Index" class="btn btn-primary btn-lg">🎮 View Games</a>
+    <a asp-controller="RankEntry" asp-action="Index" class="btn btn-success btn-lg">🏆 View Rank Entries</a>
+    <a asp-controller="Home" asp-action="Dashboard" class="btn btn-success btn-lg">📈 Dashboard</a>
 </div>
