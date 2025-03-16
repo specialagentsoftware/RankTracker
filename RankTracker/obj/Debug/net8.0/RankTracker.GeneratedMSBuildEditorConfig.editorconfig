@@ -78,6 +78,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XERlbGV0ZUNvbmZpcm1lZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/RankEntry/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/RankEntry/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

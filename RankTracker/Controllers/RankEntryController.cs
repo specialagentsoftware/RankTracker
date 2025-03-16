@@ -26,6 +26,19 @@ namespace GameRankTracker.Controllers
             var rankEntries = _context.RankEntries.Include(r => r.Game).Include(r => r.User);
             return View(await rankEntries.ToListAsync());
         }
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null) return NotFound();
+
+            var rankEntry = await _context.RankEntries
+                .Include(r => r.Game)  // Include related Game data
+                .Include(r => r.User)  // Include User info if needed
+                .FirstOrDefaultAsync(m => m.Id == id);
+
+            if (rankEntry == null) return NotFound();
+
+            return View(rankEntry);
+        }
 
         // GET: /RankEntry/Create
         public IActionResult Create()
@@ -84,7 +97,12 @@ namespace GameRankTracker.Controllers
         {
             if (id != rankEntry.Id) return NotFound();
 
-            if (ModelState.IsValid)
+            var existingRankEntry = await _context.RankEntries.AsNoTracking().FirstOrDefaultAsync(re => re.Id == id);
+            if (existingRankEntry == null) return NotFound();
+
+            rankEntry.UserId = existingRankEntry.UserId;
+
+            if (rankEntry.UserId != null && rankEntry.GameId != 0 && rankEntry.Date != DateTime.MinValue && rankEntry.Rank != null)
             {
                 try
                 {
