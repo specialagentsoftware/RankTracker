@@ -39,3 +39,50 @@
 }
     </tbody>
 </table>
+
+@* <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        loadRankEntries(); // Load data when the page loads
+
+        function loadRankEntries() {
+            fetch("/RankEntry/GetRankEntries")
+                .then(response => response.json())
+                .then(data => {
+                    let tableBody = document.getElementById("rankEntriesBody");
+                    tableBody.innerHTML = ""; // Clear previous data
+
+                    data.forEach(entry => {
+                        let row = `<tr>
+                            <td>${entry.Id}</td>
+                            <td>${entry.Rank}</td>
+                            <td>${entry.Date}</td>
+                            <td>${entry.Description}</td>
+                            <td>${entry.User}</td>
+                            <td>${entry.GameName}</td>
+                            <td>
+                                <a href="/RankEntry/Edit/${entry.Id}">Edit</a> |
+                                <a href="#" onclick="deleteRankEntry(${entry.Id})">Delete</a>
+                            </td>
+                        </tr>`;
+                        tableBody.innerHTML += row;
+                    });
+                })
+                .catch(error => console.error("Error loading Rank Entries:", error));
+        }
+
+        window.deleteRankEntry = function (id) {
+            if (!confirm("Are you sure you want to delete this Rank Entry?")) return;
+
+            fetch(`/RankEntry/Delete/${id}`, { method: "POST" })
+                .then(response => response.json())
+                .then(result => {
+                    if (result.success) {
+                        loadRankEntries(); // Reload the table after deleting
+                    } else {
+                        alert("Failed to delete Rank Entry.");
+                    }
+                })
+                .catch(error => console.error("Error deleting Rank Entry:", error));
+        }
+    });
+</script> *@
