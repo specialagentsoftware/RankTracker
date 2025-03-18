@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\RankTracker.csproj": {}
+    "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\RankTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\RankTracker.csproj": {
+    "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\RankTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\RankTracker.csproj",
+        "projectUniqueName": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\RankTracker.csproj",
         "projectName": "RankTracker",
-        "projectPath": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\RankTracker.csproj",
-        "packagesPath": "C:\\Users\\lwrog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lwrog\\source\\repos\\RankTracker\\RankTracker\\obj\\",
+        "projectPath": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\RankTracker.csproj",
+        "packagesPath": "C:\\Users\\jeremybond\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lwrog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jeremybond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -90,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

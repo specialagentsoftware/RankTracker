@@ -17,103 +17,105 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RankTracker
 build_property.RootNamespace = RankTracker
-build_property.ProjectDir = C:\Users\lwrog\source\repos\RankTracker\RankTracker\
+build_property.ProjectDir = C:\Users\jeremybond\Documents\GitHub\RankTracker\RankTracker\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lwrog\source\repos\RankTracker\RankTracker
+build_property.MSBuildProjectDirectory = C:\Users\jeremybond\Documents\GitHub\RankTracker\RankTracker
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Game/Create.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Game/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Game/Delete.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Game/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Game/DeleteConfirmed.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Game/DeleteConfirmed.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxEZWxldGVDb25maXJtZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Game/Details.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Game/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Game/Edit.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Game/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Game/Index.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Game/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Home/DashBoard.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Home/DashBoard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoQm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Home/Index.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Home/Privacy.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/RankEntry/Create.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/RankEntry/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/RankEntry/Delete.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/RankEntry/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/RankEntry/DeleteConfirmed.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/RankEntry/DeleteConfirmed.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XERlbGV0ZUNvbmZpcm1lZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/RankEntry/Details.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/RankEntry/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/RankEntry/Edit.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/RankEntry/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/RankEntry/Index.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/RankEntry/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/RankEntry/RankProgression.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/RankEntry/RankProgression.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFua0VudHJ5XFJhbmtQcm9ncmVzc2lvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Shared/Error.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/_ViewImports.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/_ViewStart.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lwrog/source/repos/RankTracker/RankTracker/Views/Shared/_Layout.cshtml]
+[C:/Users/jeremybond/Documents/GitHub/RankTracker/RankTracker/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l7cge38f3g
