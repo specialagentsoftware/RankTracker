@@ -12,7 +12,7 @@ using RankTracker.Data;
 namespace RankTracker.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250318013848_InitialCreate")]
+    [Migration("20250318233749_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -239,10 +239,16 @@ namespace RankTracker.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("Name")
                         .IsUnique();
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Games");
                 });
@@ -329,6 +335,17 @@ namespace RankTracker.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("RankTracker.Models.Game", b =>
+                {
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("RankTracker.Models.RankEntry", b =>

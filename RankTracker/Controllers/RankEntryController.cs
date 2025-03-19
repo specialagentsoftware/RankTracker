@@ -116,7 +116,9 @@ namespace GameRankTracker.Controllers
             var existingRankEntry = await _context.RankEntries.AsNoTracking().FirstOrDefaultAsync(re => re.Id == id);
             if (existingRankEntry == null) return NotFound();
 
-            if (rankEntry.UserId != _userManager.GetUserId(User) && !User.IsInRole("Admin"))
+            var loggedInUserId = _userManager.GetUserId(User);
+
+            if (existingRankEntry.UserId != _userManager.GetUserId(User) && !User.IsInRole("Admin"))
             {
                 return Forbid();
             }
@@ -142,13 +144,19 @@ namespace GameRankTracker.Controllers
         }
 
         // GET: /RankEntry/Delete/5
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,User")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null) return NotFound();
 
             var rankEntry = await _context.RankEntries.Include(r => r.Game).FirstOrDefaultAsync(m => m.Id == id);
             if (rankEntry == null) return NotFound();
+
+            var loggedInUserId = _userManager.GetUserId(User);
+            if (rankEntry.UserId != loggedInUserId && !User.IsInRole("Admin"))
+            {
+                return Forbid();
+            }
 
             return View(rankEntry);
         }
@@ -169,7 +177,7 @@ namespace GameRankTracker.Controllers
         // POST: /RankEntry/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,User")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var rankEntry = await _context.RankEntries.FindAsync(id);

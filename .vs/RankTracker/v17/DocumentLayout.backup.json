@@ -3,76 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\migrations\\20250318233749_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\migrations\\20250318233749_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\migrations\\20250314150921_fixidentityuserreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\migrations\\20250314150921_fixidentityuserreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\migrations\\20250316154116_changeranktoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\migrations\\20250316154116_changeranktoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\controllers\\rankentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\controllers\\rankentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\rankentry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\rankentry\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\rankentry\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\migrations\\20250318233749_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\migrations\\20250318233749_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\models\\rankentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\models\\rankentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\rankentry\\rankprogression.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\rankprogression.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\rankentry\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\rankentry\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\game\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\game\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|solutionrelative:ranktracker\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3590E153-1298-49CC-9688-A4F929B27E70}|RankTracker\\RankTracker.csproj|c:\\users\\jeremybond\\documents\\github\\ranktracker\\ranktracker\\views\\rankentry\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,76 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\appsettings.json",
-              "RelativeDocumentMoniker": "RankTracker\\appsettings.json",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\appsettings.json",
-              "RelativeToolTip": "RankTracker\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T00:46:08.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Program.cs",
-              "RelativeDocumentMoniker": "RankTracker\\Program.cs",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Program.cs",
-              "RelativeToolTip": "RankTracker\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAawEgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:30:21.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RankEntryController.cs",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\RankEntryController.cs",
-              "RelativeDocumentMoniker": "RankTracker\\Controllers\\RankEntryController.cs",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\RankEntryController.cs",
-              "RelativeToolTip": "RankTracker\\Controllers\\RankEntryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:03:19.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250316154116_ChangeRankToInt.cs",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Migrations\\20250316154116_ChangeRankToInt.cs",
-              "RelativeDocumentMoniker": "RankTracker\\Migrations\\20250316154116_ChangeRankToInt.cs",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Migrations\\20250316154116_ChangeRankToInt.cs",
-              "RelativeToolTip": "RankTracker\\Migrations\\20250316154116_ChangeRankToInt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:41:17.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250314150921_FixIdentityUserReference.cs",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Migrations\\20250314150921_FixIdentityUserReference.cs",
-              "RelativeDocumentMoniker": "RankTracker\\Migrations\\20250314150921_FixIdentityUserReference.cs",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Migrations\\20250314150921_FixIdentityUserReference.cs",
-              "RelativeToolTip": "RankTracker\\Migrations\\20250314150921_FixIdentityUserReference.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:23:19.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "RankTracker\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -163,72 +66,59 @@
               "RelativeToolTip": "RankTracker\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T18:23:21.923Z",
+              "WhenOpened": "2025-03-18T23:14:05.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Program.cs",
+              "RelativeDocumentMoniker": "RankTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Program.cs",
+              "RelativeToolTip": "RankTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:30:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "RankTracker\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "RankTracker\\Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T04:54:12.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250318233749_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Migrations\\20250318233749_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RankTracker\\Migrations\\20250318233749_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Migrations\\20250318233749_InitialCreate.cs",
+              "RelativeToolTip": "RankTracker\\Migrations\\20250318233749_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:39:16.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Index.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Index.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\RankEntry\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T17:12:05.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RankProgression.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\RankProgression.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\RankProgression.cshtml",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\RankProgression.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\RankEntry\\RankProgression.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T16:15:17.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Create.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Create.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\RankEntry\\Create.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T15:41:43.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Details.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Details.cshtml",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Details.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\RankEntry\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T15:10:17.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Edit.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Edit.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\RankEntry\\Edit.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T15:17:03.278Z",
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "RankTracker\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Models\\Game.cs",
+              "RelativeToolTip": "RankTracker\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:14:08.496Z",
               "EditorCaption": ""
             },
             {
@@ -239,92 +129,40 @@
               "RelativeDocumentMoniker": "RankTracker\\Models\\RankEntry.cs",
               "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Models\\RankEntry.cs",
               "RelativeToolTip": "RankTracker\\Models\\RankEntry.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:19:56.753Z",
+              "WhenOpened": "2025-03-18T23:14:37.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Index.cshtml",
+              "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Index.cshtml",
+              "RelativeToolTip": "RankTracker\\Views\\RankEntry\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:09:55.674Z",
+              "WhenOpened": "2025-03-19T01:26:08.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAB/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T16:10:34.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Game\\Details.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\Game\\Details.cshtml",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Game\\Details.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\Game\\Details.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T21:07:40.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "RankTracker\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "RankTracker\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAmwCsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "20250318233749_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Migrations\\20250318233749_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "RankTracker\\Migrations\\20250318233749_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Migrations\\20250318233749_InitialCreate.Designer.cs",
+              "RelativeToolTip": "RankTracker\\Migrations\\20250318233749_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:09:41.141Z",
+              "WhenOpened": "2025-03-18T23:39:24.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "RankTracker\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\GameController.cs",
-              "RelativeToolTip": "RankTracker\\Controllers\\GameController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T21:08:05.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Game\\Index.cshtml",
-              "RelativeDocumentMoniker": "RankTracker\\Views\\Game\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\Game\\Index.cshtml",
-              "RelativeToolTip": "RankTracker\\Views\\Game\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T04:54:12.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Views\\RankEntry\\Delete.cshtml",
               "RelativeDocumentMoniker": "RankTracker\\Views\\RankEntry\\Delete.cshtml",
@@ -333,6 +171,74 @@
               "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-15T21:07:03.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0247006d-7bba-4664-8144-05b871a97b9b",
+        "Display": 0,
+        "X": 792,
+        "Y": 125,
+        "Width": 1421,
+        "Height": 564,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "RankTracker\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\GameController.cs",
+              "RelativeToolTip": "RankTracker\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:08:05.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4ff661d4-c24b-46b9-b947-a18ffc1cac81",
+        "Display": 0,
+        "X": 492,
+        "Y": 96,
+        "Width": 463,
+        "Height": 555,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RankEntryController.cs",
+              "DocumentMoniker": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\RankEntryController.cs",
+              "RelativeDocumentMoniker": "RankTracker\\Controllers\\RankEntryController.cs",
+              "ToolTip": "C:\\Users\\jeremybond\\Documents\\GitHub\\RankTracker\\RankTracker\\Controllers\\RankEntryController.cs",
+              "RelativeToolTip": "RankTracker\\Controllers\\RankEntryController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T05:03:19.214Z",
               "EditorCaption": ""
             }
           ]
